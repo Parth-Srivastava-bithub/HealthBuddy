@@ -125,5 +125,5 @@ It is **NOT a replacement for professional medical advice**. For emergencies, **
 
 Made with ❤️‍🩹 and ☕ by Parth Srivastava
 
-```
+---
 
