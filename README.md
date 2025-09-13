@@ -41,6 +41,15 @@ It helps users with **basic first-aid** and **stress support** in a **casual, bu
 
 ---
 
+
+![Alt text](image.png)
+![Alt text](image_copy.png)
+![Alt text](image_2.png)
+![Alt text](image_3.png)
+![Alt text](image_4.png)
+
+
+
 ## 📂 Project Structure
 
 ```
